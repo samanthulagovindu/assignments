@@ -136,7 +136,7 @@ empIds.add(5678);
 empIds.add(1234);//duplicate value will not be added to the set
 console.log(empIds);
 
-//6. Date ==> Date represents a specific point in time.
+//7. Date ==> Date represents a specific point in time.
 let currentDate = new Date();
 console.log(currentDate);
 
